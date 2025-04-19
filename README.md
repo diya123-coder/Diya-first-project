@@ -1,4 +1,4 @@
 # Diya-first-project
 This is my first repository.
 <br>
-Author - Diya(BCA)
+Author - diya( bachelors's of computer application)
